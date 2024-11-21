@@ -1,0 +1,2 @@
+mass,cm_x,cm_y,cm_z,inertia_00,inertia_01,inertia_02,inertia_10,inertia_11,inertia_12,inertia_20,inertia_21,inertia_22
+10000,0.1,0.2,0.3,1.0,0.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0
